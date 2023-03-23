@@ -1,1 +1,2 @@
-# Mod-11-Web-Scraping
+Purpose.  We automated a web browser to scrape and extract data about the National Aeronautics and Space Administration (NASA) Mars exploration.
+Web scraping automates the tedious tasks of extracting online data for analysis. Instead of a person manually visiting each website, copying the data, and then pasting that data into a file, a web-scraping script automatically performs all those actions and, if necessary, organizes the data for analysis. That is, instead of us manually collecting and formatting the data, web scraping automates the process for us.
